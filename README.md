@@ -15,6 +15,6 @@ Please change it to the code for your country.
 <br>
 
 Connect TTP223 to TTGO T-Call 1.3<br>
-VCC - 5V<br>
+VCC to 5V<br>
 GND to GND<br>
 OUT to 22 PIN
