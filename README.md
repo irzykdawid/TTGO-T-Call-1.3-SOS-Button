@@ -11,4 +11,4 @@ At <b>Send_AT("ATD+48XXXXXXXXX;");</b>, enter your phone number.
 +48 is the area code for Poland<br>
 Please change it to the code for your country.
 <br><br>
-<b>The code is for the arduino IDE</b>
+<b>The code is for the Arduino IDE</b>
