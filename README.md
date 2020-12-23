@@ -12,3 +12,9 @@ At <b>Send_AT("ATD+48XXXXXXXXX;");</b>, enter your phone number.
 Please change it to the code for your country.
 <br><br>
 <b>The code is for the Arduino IDE</b>
+<br>
+
+Connect TTP223 to TTGO T-Call 1.3<br>
+VCC - 5V<br>
+GND to GND<br>
+OUT to 22 PIN
