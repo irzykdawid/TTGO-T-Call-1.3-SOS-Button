@@ -5,6 +5,8 @@ Board: TTGO T-Call v1.3 with SIM800L<br>
 License GNU General Public License (GPL) v3<br>
 Copy: (C) 2020 by Dawid Irzyk
 
+<b>Application example:</b><br>
+<em>We use it to call for help, e.g. in an epilepsy attack, to call in household members on their phone if they are nearby.</em><br>
 
 At <b>Send_AT("ATD+48XXXXXXXXX;");</b>, enter your phone number.
 <br><br>
